@@ -1,2 +1,4 @@
 # Master-Machine-Learning-on-Python-R
-All about machine Learning on Python &amp; R
+This Repository contains some resource, steps and instructions that I follow to learn the Titled topic.
+
+
